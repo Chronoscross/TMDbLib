@@ -6,6 +6,7 @@
     <AssemblyName>TMDbLib</AssemblyName>
     <PackageId>TMDbLib</PackageId>
     <Description>.NET Client library for The Movie Database (https://www.themoviedb.org/)</Description>
+    <RepositoryUrl>https://github.com/Chronoscross/TMDbLib</RepositoryUrl>
   </PropertyGroup>
 
   <!-- Analyzers -->
